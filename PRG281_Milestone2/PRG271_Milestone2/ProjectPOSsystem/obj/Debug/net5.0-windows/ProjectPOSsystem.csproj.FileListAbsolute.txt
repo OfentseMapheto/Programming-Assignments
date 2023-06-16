@@ -1,0 +1,256 @@
+F:\Visual Studio\Second Year\ProjectPOSsystem\bin\Debug\net5.0-windows\ProjectPOSsystem.exe
+F:\Visual Studio\Second Year\ProjectPOSsystem\bin\Debug\net5.0-windows\ProjectPOSsystem.deps.json
+F:\Visual Studio\Second Year\ProjectPOSsystem\bin\Debug\net5.0-windows\ProjectPOSsystem.runtimeconfig.json
+F:\Visual Studio\Second Year\ProjectPOSsystem\bin\Debug\net5.0-windows\ProjectPOSsystem.runtimeconfig.dev.json
+F:\Visual Studio\Second Year\ProjectPOSsystem\bin\Debug\net5.0-windows\ProjectPOSsystem.dll
+F:\Visual Studio\Second Year\ProjectPOSsystem\bin\Debug\net5.0-windows\ref\ProjectPOSsystem.dll
+F:\Visual Studio\Second Year\ProjectPOSsystem\bin\Debug\net5.0-windows\ProjectPOSsystem.pdb
+F:\Visual Studio\Second Year\ProjectPOSsystem\obj\Debug\net5.0-windows\ProjectPOSsystem.csprojAssemblyReference.cache
+F:\Visual Studio\Second Year\ProjectPOSsystem\obj\Debug\net5.0-windows\ProjectPOSsystem.Form1.resources
+F:\Visual Studio\Second Year\ProjectPOSsystem\obj\Debug\net5.0-windows\ProjectPOSsystem.csproj.GenerateResource.cache
+F:\Visual Studio\Second Year\ProjectPOSsystem\obj\Debug\net5.0-windows\ProjectPOSsystem.GeneratedMSBuildEditorConfig.editorconfig
+F:\Visual Studio\Second Year\ProjectPOSsystem\obj\Debug\net5.0-windows\ProjectPOSsystem.AssemblyInfoInputs.cache
+F:\Visual Studio\Second Year\ProjectPOSsystem\obj\Debug\net5.0-windows\ProjectPOSsystem.AssemblyInfo.cs
+F:\Visual Studio\Second Year\ProjectPOSsystem\obj\Debug\net5.0-windows\ProjectPOSsystem.csproj.CoreCompileInputs.cache
+F:\Visual Studio\Second Year\ProjectPOSsystem\obj\Debug\net5.0-windows\ProjectPOSsystem.dll
+F:\Visual Studio\Second Year\ProjectPOSsystem\obj\Debug\net5.0-windows\ref\ProjectPOSsystem.dll
+F:\Visual Studio\Second Year\ProjectPOSsystem\obj\Debug\net5.0-windows\ProjectPOSsystem.pdb
+F:\Visual Studio\Second Year\ProjectPOSsystem\obj\Debug\net5.0-windows\ProjectPOSsystem.genruntimeconfig.cache
+F:\Visual Studio\Second Year\ProjectPOSsystem\obj\Debug\net5.0-windows\ProjectPOSsystem.FrmAddItem.resources
+F:\Visual Studio\Second Year\ProjectPOSsystem\obj\Debug\net5.0-windows\ProjectPOSsystem.FrmRemoveItem.resources
+D:\Belgium\Year2\PRG281\Project\ProjectPOSsystem\bin\Debug\net5.0-windows\ProjectPOSsystem.exe
+D:\Belgium\Year2\PRG281\Project\ProjectPOSsystem\bin\Debug\net5.0-windows\ProjectPOSsystem.deps.json
+D:\Belgium\Year2\PRG281\Project\ProjectPOSsystem\bin\Debug\net5.0-windows\ProjectPOSsystem.runtimeconfig.json
+D:\Belgium\Year2\PRG281\Project\ProjectPOSsystem\bin\Debug\net5.0-windows\ProjectPOSsystem.runtimeconfig.dev.json
+D:\Belgium\Year2\PRG281\Project\ProjectPOSsystem\bin\Debug\net5.0-windows\ProjectPOSsystem.dll
+D:\Belgium\Year2\PRG281\Project\ProjectPOSsystem\bin\Debug\net5.0-windows\ProjectPOSsystem.pdb
+D:\Belgium\Year2\PRG281\Project\ProjectPOSsystem\obj\Debug\net5.0-windows\ProjectPOSsystem.csproj.AssemblyReference.cache
+D:\Belgium\Year2\PRG281\Project\ProjectPOSsystem\obj\Debug\net5.0-windows\ProjectPOSsystem.Form1.resources
+D:\Belgium\Year2\PRG281\Project\ProjectPOSsystem\obj\Debug\net5.0-windows\ProjectPOSsystem.FrmAddItem.resources
+D:\Belgium\Year2\PRG281\Project\ProjectPOSsystem\obj\Debug\net5.0-windows\ProjectPOSsystem.FrmRemoveItem.resources
+D:\Belgium\Year2\PRG281\Project\ProjectPOSsystem\obj\Debug\net5.0-windows\ProjectPOSsystem.csproj.GenerateResource.cache
+D:\Belgium\Year2\PRG281\Project\ProjectPOSsystem\obj\Debug\net5.0-windows\ProjectPOSsystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Belgium\Year2\PRG281\Project\ProjectPOSsystem\obj\Debug\net5.0-windows\ProjectPOSsystem.AssemblyInfoInputs.cache
+D:\Belgium\Year2\PRG281\Project\ProjectPOSsystem\obj\Debug\net5.0-windows\ProjectPOSsystem.AssemblyInfo.cs
+D:\Belgium\Year2\PRG281\Project\ProjectPOSsystem\obj\Debug\net5.0-windows\ProjectPOSsystem.csproj.CoreCompileInputs.cache
+D:\Belgium\Year2\PRG281\Project\ProjectPOSsystem\obj\Debug\net5.0-windows\ProjectPOSsystem.dll
+D:\Belgium\Year2\PRG281\Project\ProjectPOSsystem\obj\Debug\net5.0-windows\refint\ProjectPOSsystem.dll
+D:\Belgium\Year2\PRG281\Project\ProjectPOSsystem\obj\Debug\net5.0-windows\ProjectPOSsystem.pdb
+D:\Belgium\Year2\PRG281\Project\ProjectPOSsystem\obj\Debug\net5.0-windows\ProjectPOSsystem.genruntimeconfig.cache
+D:\Belgium\Year2\PRG281\Project\ProjectPOSsystem\obj\Debug\net5.0-windows\ref\ProjectPOSsystem.dll
+D:\Belgium\Year2\PRG281\Project\ProjectPOSsystem\obj\Debug\net5.0-windows\ProjectPOSsystem.Form2.resources
+D:\Belgium\Year2\PRG281\Project\ProjectPOSsystem\obj\Debug\net5.0-windows\ProjectPOSsystem.Form3.resources
+F:\Visual Studio\Second Year\ProjectPOSsystem\obj\Debug\net5.0-windows\ProjectPOSsystem.Form2.resources
+F:\Visual Studio\Second Year\ProjectPOSsystem\obj\Debug\net5.0-windows\ProjectPOSsystem.Form3.resources
+D:\Belgium\Year2\PRG281\Project\Iteration7\ProjectPOSsystem\bin\Debug\net5.0-windows\ProjectPOSsystem.exe
+D:\Belgium\Year2\PRG281\Project\Iteration7\ProjectPOSsystem\bin\Debug\net5.0-windows\ProjectPOSsystem.deps.json
+D:\Belgium\Year2\PRG281\Project\Iteration7\ProjectPOSsystem\bin\Debug\net5.0-windows\ProjectPOSsystem.runtimeconfig.json
+D:\Belgium\Year2\PRG281\Project\Iteration7\ProjectPOSsystem\bin\Debug\net5.0-windows\ProjectPOSsystem.runtimeconfig.dev.json
+D:\Belgium\Year2\PRG281\Project\Iteration7\ProjectPOSsystem\bin\Debug\net5.0-windows\ProjectPOSsystem.dll
+D:\Belgium\Year2\PRG281\Project\Iteration7\ProjectPOSsystem\bin\Debug\net5.0-windows\ProjectPOSsystem.pdb
+D:\Belgium\Year2\PRG281\Project\Iteration7\ProjectPOSsystem\obj\Debug\net5.0-windows\ProjectPOSsystem.csproj.AssemblyReference.cache
+D:\Belgium\Year2\PRG281\Project\Iteration7\ProjectPOSsystem\obj\Debug\net5.0-windows\ProjectPOSsystem.Form1.resources
+D:\Belgium\Year2\PRG281\Project\Iteration7\ProjectPOSsystem\obj\Debug\net5.0-windows\ProjectPOSsystem.Form2.resources
+D:\Belgium\Year2\PRG281\Project\Iteration7\ProjectPOSsystem\obj\Debug\net5.0-windows\ProjectPOSsystem.Form3.resources
+D:\Belgium\Year2\PRG281\Project\Iteration7\ProjectPOSsystem\obj\Debug\net5.0-windows\ProjectPOSsystem.FrmAddItem.resources
+D:\Belgium\Year2\PRG281\Project\Iteration7\ProjectPOSsystem\obj\Debug\net5.0-windows\ProjectPOSsystem.FrmRemoveItem.resources
+D:\Belgium\Year2\PRG281\Project\Iteration7\ProjectPOSsystem\obj\Debug\net5.0-windows\ProjectPOSsystem.Properties.Resources.resources
+D:\Belgium\Year2\PRG281\Project\Iteration7\ProjectPOSsystem\obj\Debug\net5.0-windows\ProjectPOSsystem.csproj.GenerateResource.cache
+D:\Belgium\Year2\PRG281\Project\Iteration7\ProjectPOSsystem\obj\Debug\net5.0-windows\ProjectPOSsystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Belgium\Year2\PRG281\Project\Iteration7\ProjectPOSsystem\obj\Debug\net5.0-windows\ProjectPOSsystem.AssemblyInfoInputs.cache
+D:\Belgium\Year2\PRG281\Project\Iteration7\ProjectPOSsystem\obj\Debug\net5.0-windows\ProjectPOSsystem.AssemblyInfo.cs
+D:\Belgium\Year2\PRG281\Project\Iteration7\ProjectPOSsystem\obj\Debug\net5.0-windows\ProjectPOSsystem.csproj.CoreCompileInputs.cache
+D:\Belgium\Year2\PRG281\Project\Iteration7\ProjectPOSsystem\obj\Debug\net5.0-windows\ProjectPOSsystem.dll
+D:\Belgium\Year2\PRG281\Project\Iteration7\ProjectPOSsystem\obj\Debug\net5.0-windows\refint\ProjectPOSsystem.dll
+D:\Belgium\Year2\PRG281\Project\Iteration7\ProjectPOSsystem\obj\Debug\net5.0-windows\ProjectPOSsystem.pdb
+D:\Belgium\Year2\PRG281\Project\Iteration7\ProjectPOSsystem\obj\Debug\net5.0-windows\ProjectPOSsystem.genruntimeconfig.cache
+D:\Belgium\Year2\PRG281\Project\Iteration7\ProjectPOSsystem\obj\Debug\net5.0-windows\ref\ProjectPOSsystem.dll
+F:\Visual Studio\ProjectPOSsystem\obj\Debug\net5.0-windows\ProjectPOSsystem.FrmAddItem.resources
+F:\Visual Studio\ProjectPOSsystem\obj\Debug\net5.0-windows\ProjectPOSsystem.FrmRemoveItem.resources
+F:\Visual Studio\ProjectPOSsystem\obj\Debug\net5.0-windows\ProjectPOSsystem.Properties.Resources.resources
+F:\Visual Studio\ProjectPOSsystem\obj\Debug\net5.0-windows\ProjectPOSsystem.csproj.GenerateResource.cache
+F:\Visual Studio\ProjectPOSsystem\obj\Debug\net5.0-windows\ProjectPOSsystem.GeneratedMSBuildEditorConfig.editorconfig
+F:\Visual Studio\ProjectPOSsystem\obj\Debug\net5.0-windows\ProjectPOSsystem.AssemblyInfoInputs.cache
+F:\Visual Studio\ProjectPOSsystem\obj\Debug\net5.0-windows\ProjectPOSsystem.AssemblyInfo.cs
+F:\Visual Studio\ProjectPOSsystem\obj\Debug\net5.0-windows\ProjectPOSsystem.csproj.CoreCompileInputs.cache
+F:\Visual Studio\ProjectPOSsystem\obj\Debug\net5.0-windows\ProjectPOSsystem.dll
+F:\Visual Studio\ProjectPOSsystem\obj\Debug\net5.0-windows\ref\ProjectPOSsystem.dll
+F:\Visual Studio\ProjectPOSsystem\obj\Debug\net5.0-windows\ProjectPOSsystem.pdb
+F:\Visual Studio\ProjectPOSsystem\bin\Debug\net5.0-windows\ProjectPOSsystem.exe
+F:\Visual Studio\ProjectPOSsystem\bin\Debug\net5.0-windows\ProjectPOSsystem.deps.json
+F:\Visual Studio\ProjectPOSsystem\bin\Debug\net5.0-windows\ProjectPOSsystem.runtimeconfig.json
+F:\Visual Studio\ProjectPOSsystem\bin\Debug\net5.0-windows\ProjectPOSsystem.runtimeconfig.dev.json
+F:\Visual Studio\ProjectPOSsystem\bin\Debug\net5.0-windows\ProjectPOSsystem.dll
+F:\Visual Studio\ProjectPOSsystem\bin\Debug\net5.0-windows\ref\ProjectPOSsystem.dll
+F:\Visual Studio\ProjectPOSsystem\bin\Debug\net5.0-windows\ProjectPOSsystem.pdb
+F:\Visual Studio\ProjectPOSsystem\obj\Debug\net5.0-windows\ProjectPOSsystem.genruntimeconfig.cache
+F:\Visual Studio\ProjectPOSsystem\obj\Debug\net5.0-windows\ProjectPOSsystem.csproj.AssemblyReference.cache
+F:\Visual Studio\ProjectPOSsystem\obj\Debug\net5.0-windows\ProjectPOSsystem.frmLoginRegister.resources
+F:\Visual Studio\ProjectPOSsystem\obj\Debug\net5.0-windows\ProjectPOSsystem.frmPOS.resources
+F:\Visual Studio\ProjectPOSsystem\obj\Debug\net5.0-windows\ProjectPOSsystem.FrmRegister.resources
+C:\Users\hanno\Documents\AA BELGIUM CAMPUS\Second year\PRG 281\Assignments\Project milestone 1\ProjectPOSsystem\ProjectPOSsystem\bin\Debug\net5.0-windows\ProjectPOSsystem.exe
+C:\Users\hanno\Documents\AA BELGIUM CAMPUS\Second year\PRG 281\Assignments\Project milestone 1\ProjectPOSsystem\ProjectPOSsystem\bin\Debug\net5.0-windows\ProjectPOSsystem.deps.json
+C:\Users\hanno\Documents\AA BELGIUM CAMPUS\Second year\PRG 281\Assignments\Project milestone 1\ProjectPOSsystem\ProjectPOSsystem\bin\Debug\net5.0-windows\ProjectPOSsystem.runtimeconfig.json
+C:\Users\hanno\Documents\AA BELGIUM CAMPUS\Second year\PRG 281\Assignments\Project milestone 1\ProjectPOSsystem\ProjectPOSsystem\bin\Debug\net5.0-windows\ProjectPOSsystem.runtimeconfig.dev.json
+C:\Users\hanno\Documents\AA BELGIUM CAMPUS\Second year\PRG 281\Assignments\Project milestone 1\ProjectPOSsystem\ProjectPOSsystem\bin\Debug\net5.0-windows\ProjectPOSsystem.dll
+C:\Users\hanno\Documents\AA BELGIUM CAMPUS\Second year\PRG 281\Assignments\Project milestone 1\ProjectPOSsystem\ProjectPOSsystem\bin\Debug\net5.0-windows\ProjectPOSsystem.pdb
+C:\Users\hanno\Documents\AA BELGIUM CAMPUS\Second year\PRG 281\Assignments\Project milestone 1\ProjectPOSsystem\ProjectPOSsystem\obj\Debug\net5.0-windows\ProjectPOSsystem.csproj.AssemblyReference.cache
+C:\Users\hanno\Documents\AA BELGIUM CAMPUS\Second year\PRG 281\Assignments\Project milestone 1\ProjectPOSsystem\ProjectPOSsystem\obj\Debug\net5.0-windows\ProjectPOSsystem.FrmAddItem.resources
+C:\Users\hanno\Documents\AA BELGIUM CAMPUS\Second year\PRG 281\Assignments\Project milestone 1\ProjectPOSsystem\ProjectPOSsystem\obj\Debug\net5.0-windows\ProjectPOSsystem.frmLoginRegister.resources
+C:\Users\hanno\Documents\AA BELGIUM CAMPUS\Second year\PRG 281\Assignments\Project milestone 1\ProjectPOSsystem\ProjectPOSsystem\obj\Debug\net5.0-windows\ProjectPOSsystem.frmPOS.resources
+C:\Users\hanno\Documents\AA BELGIUM CAMPUS\Second year\PRG 281\Assignments\Project milestone 1\ProjectPOSsystem\ProjectPOSsystem\obj\Debug\net5.0-windows\ProjectPOSsystem.FrmRegister.resources
+C:\Users\hanno\Documents\AA BELGIUM CAMPUS\Second year\PRG 281\Assignments\Project milestone 1\ProjectPOSsystem\ProjectPOSsystem\obj\Debug\net5.0-windows\ProjectPOSsystem.FrmRemoveItem.resources
+C:\Users\hanno\Documents\AA BELGIUM CAMPUS\Second year\PRG 281\Assignments\Project milestone 1\ProjectPOSsystem\ProjectPOSsystem\obj\Debug\net5.0-windows\ProjectPOSsystem.Properties.Resources.resources
+C:\Users\hanno\Documents\AA BELGIUM CAMPUS\Second year\PRG 281\Assignments\Project milestone 1\ProjectPOSsystem\ProjectPOSsystem\obj\Debug\net5.0-windows\ProjectPOSsystem.csproj.GenerateResource.cache
+C:\Users\hanno\Documents\AA BELGIUM CAMPUS\Second year\PRG 281\Assignments\Project milestone 1\ProjectPOSsystem\ProjectPOSsystem\obj\Debug\net5.0-windows\ProjectPOSsystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hanno\Documents\AA BELGIUM CAMPUS\Second year\PRG 281\Assignments\Project milestone 1\ProjectPOSsystem\ProjectPOSsystem\obj\Debug\net5.0-windows\ProjectPOSsystem.AssemblyInfoInputs.cache
+C:\Users\hanno\Documents\AA BELGIUM CAMPUS\Second year\PRG 281\Assignments\Project milestone 1\ProjectPOSsystem\ProjectPOSsystem\obj\Debug\net5.0-windows\ProjectPOSsystem.AssemblyInfo.cs
+C:\Users\hanno\Documents\AA BELGIUM CAMPUS\Second year\PRG 281\Assignments\Project milestone 1\ProjectPOSsystem\ProjectPOSsystem\obj\Debug\net5.0-windows\ProjectPOSsystem.csproj.CoreCompileInputs.cache
+C:\Users\hanno\Documents\AA BELGIUM CAMPUS\Second year\PRG 281\Assignments\Project milestone 1\ProjectPOSsystem\ProjectPOSsystem\obj\Debug\net5.0-windows\ProjectPOSsystem.dll
+C:\Users\hanno\Documents\AA BELGIUM CAMPUS\Second year\PRG 281\Assignments\Project milestone 1\ProjectPOSsystem\ProjectPOSsystem\obj\Debug\net5.0-windows\refint\ProjectPOSsystem.dll
+C:\Users\hanno\Documents\AA BELGIUM CAMPUS\Second year\PRG 281\Assignments\Project milestone 1\ProjectPOSsystem\ProjectPOSsystem\obj\Debug\net5.0-windows\ProjectPOSsystem.pdb
+C:\Users\hanno\Documents\AA BELGIUM CAMPUS\Second year\PRG 281\Assignments\Project milestone 1\ProjectPOSsystem\ProjectPOSsystem\obj\Debug\net5.0-windows\ProjectPOSsystem.genruntimeconfig.cache
+C:\Users\hanno\Documents\AA BELGIUM CAMPUS\Second year\PRG 281\Assignments\Project milestone 1\ProjectPOSsystem\ProjectPOSsystem\obj\Debug\net5.0-windows\ref\ProjectPOSsystem.dll
+F:\Visual Studio\ProjectPOSsystem\ProjectPOSsystem\bin\Debug\net5.0-windows\ProjectPOSsystem.exe
+F:\Visual Studio\ProjectPOSsystem\ProjectPOSsystem\bin\Debug\net5.0-windows\ProjectPOSsystem.deps.json
+F:\Visual Studio\ProjectPOSsystem\ProjectPOSsystem\bin\Debug\net5.0-windows\ProjectPOSsystem.runtimeconfig.json
+F:\Visual Studio\ProjectPOSsystem\ProjectPOSsystem\bin\Debug\net5.0-windows\ProjectPOSsystem.runtimeconfig.dev.json
+F:\Visual Studio\ProjectPOSsystem\ProjectPOSsystem\bin\Debug\net5.0-windows\ProjectPOSsystem.dll
+F:\Visual Studio\ProjectPOSsystem\ProjectPOSsystem\bin\Debug\net5.0-windows\ref\ProjectPOSsystem.dll
+F:\Visual Studio\ProjectPOSsystem\ProjectPOSsystem\bin\Debug\net5.0-windows\ProjectPOSsystem.pdb
+F:\Visual Studio\ProjectPOSsystem\ProjectPOSsystem\obj\Debug\net5.0-windows\ProjectPOSsystem.csproj.AssemblyReference.cache
+F:\Visual Studio\ProjectPOSsystem\ProjectPOSsystem\obj\Debug\net5.0-windows\ProjectPOSsystem.FrmAddItem.resources
+F:\Visual Studio\ProjectPOSsystem\ProjectPOSsystem\obj\Debug\net5.0-windows\ProjectPOSsystem.frmLoginRegister.resources
+F:\Visual Studio\ProjectPOSsystem\ProjectPOSsystem\obj\Debug\net5.0-windows\ProjectPOSsystem.frmPOS.resources
+F:\Visual Studio\ProjectPOSsystem\ProjectPOSsystem\obj\Debug\net5.0-windows\ProjectPOSsystem.FrmRegister.resources
+F:\Visual Studio\ProjectPOSsystem\ProjectPOSsystem\obj\Debug\net5.0-windows\ProjectPOSsystem.FrmRemoveItem.resources
+F:\Visual Studio\ProjectPOSsystem\ProjectPOSsystem\obj\Debug\net5.0-windows\ProjectPOSsystem.Properties.Resources.resources
+F:\Visual Studio\ProjectPOSsystem\ProjectPOSsystem\obj\Debug\net5.0-windows\ProjectPOSsystem.csproj.GenerateResource.cache
+F:\Visual Studio\ProjectPOSsystem\ProjectPOSsystem\obj\Debug\net5.0-windows\ProjectPOSsystem.GeneratedMSBuildEditorConfig.editorconfig
+F:\Visual Studio\ProjectPOSsystem\ProjectPOSsystem\obj\Debug\net5.0-windows\ProjectPOSsystem.AssemblyInfoInputs.cache
+F:\Visual Studio\ProjectPOSsystem\ProjectPOSsystem\obj\Debug\net5.0-windows\ProjectPOSsystem.AssemblyInfo.cs
+F:\Visual Studio\ProjectPOSsystem\ProjectPOSsystem\obj\Debug\net5.0-windows\ProjectPOSsystem.csproj.CoreCompileInputs.cache
+F:\Visual Studio\ProjectPOSsystem\ProjectPOSsystem\obj\Debug\net5.0-windows\ProjectPOSsystem.dll
+F:\Visual Studio\ProjectPOSsystem\ProjectPOSsystem\obj\Debug\net5.0-windows\ref\ProjectPOSsystem.dll
+F:\Visual Studio\ProjectPOSsystem\ProjectPOSsystem\obj\Debug\net5.0-windows\ProjectPOSsystem.pdb
+F:\Visual Studio\ProjectPOSsystem\ProjectPOSsystem\obj\Debug\net5.0-windows\ProjectPOSsystem.genruntimeconfig.cache
+F:\Visual Studio\ProjectPOSsystem\ProjectPOSsystem\obj\Debug\net5.0-windows\ProjectPOSsystem.frmSaleHistory.resources
+F:\Visual Studio\Project 2.0\ProjectPOSsystem\ProjectPOSsystem\obj\Debug\net5.0-windows\ProjectPOSsystem.csproj.AssemblyReference.cache
+F:\Visual Studio\Project 2.0\ProjectPOSsystem\ProjectPOSsystem\obj\Debug\net5.0-windows\ProjectPOSsystem.FrmAddItem.resources
+F:\Visual Studio\Project 2.0\ProjectPOSsystem\ProjectPOSsystem\obj\Debug\net5.0-windows\ProjectPOSsystem.frmLoginRegister.resources
+F:\Visual Studio\Project 2.0\ProjectPOSsystem\ProjectPOSsystem\obj\Debug\net5.0-windows\ProjectPOSsystem.frmPOS.resources
+F:\Visual Studio\Project 2.0\ProjectPOSsystem\ProjectPOSsystem\obj\Debug\net5.0-windows\ProjectPOSsystem.FrmRegister.resources
+F:\Visual Studio\Project 2.0\ProjectPOSsystem\ProjectPOSsystem\obj\Debug\net5.0-windows\ProjectPOSsystem.FrmRemoveItem.resources
+F:\Visual Studio\Project 2.0\ProjectPOSsystem\ProjectPOSsystem\obj\Debug\net5.0-windows\ProjectPOSsystem.frmSaleHistory.resources
+F:\Visual Studio\Project 2.0\ProjectPOSsystem\ProjectPOSsystem\obj\Debug\net5.0-windows\ProjectPOSsystem.Properties.Resources.resources
+F:\Visual Studio\Project 2.0\ProjectPOSsystem\ProjectPOSsystem\obj\Debug\net5.0-windows\ProjectPOSsystem.csproj.GenerateResource.cache
+F:\Visual Studio\Project 2.0\ProjectPOSsystem\ProjectPOSsystem\obj\Debug\net5.0-windows\ProjectPOSsystem.GeneratedMSBuildEditorConfig.editorconfig
+F:\Visual Studio\Project 2.0\ProjectPOSsystem\ProjectPOSsystem\obj\Debug\net5.0-windows\ProjectPOSsystem.AssemblyInfoInputs.cache
+F:\Visual Studio\Project 2.0\ProjectPOSsystem\ProjectPOSsystem\obj\Debug\net5.0-windows\ProjectPOSsystem.AssemblyInfo.cs
+F:\Visual Studio\Project 2.0\ProjectPOSsystem\ProjectPOSsystem\obj\Debug\net5.0-windows\ProjectPOSsystem.csproj.CoreCompileInputs.cache
+F:\Visual Studio\Project 2.0\ProjectPOSsystem\ProjectPOSsystem\obj\Debug\net5.0-windows\ProjectPOSsystem.dll
+F:\Visual Studio\Project 2.0\ProjectPOSsystem\ProjectPOSsystem\obj\Debug\net5.0-windows\ref\ProjectPOSsystem.dll
+F:\Visual Studio\Project 2.0\ProjectPOSsystem\ProjectPOSsystem\obj\Debug\net5.0-windows\ProjectPOSsystem.pdb
+F:\Visual Studio\Project 2.0\ProjectPOSsystem\ProjectPOSsystem\bin\Debug\net5.0-windows\ProjectPOSsystem.exe
+F:\Visual Studio\Project 2.0\ProjectPOSsystem\ProjectPOSsystem\bin\Debug\net5.0-windows\ProjectPOSsystem.deps.json
+F:\Visual Studio\Project 2.0\ProjectPOSsystem\ProjectPOSsystem\bin\Debug\net5.0-windows\ProjectPOSsystem.runtimeconfig.json
+F:\Visual Studio\Project 2.0\ProjectPOSsystem\ProjectPOSsystem\bin\Debug\net5.0-windows\ProjectPOSsystem.runtimeconfig.dev.json
+F:\Visual Studio\Project 2.0\ProjectPOSsystem\ProjectPOSsystem\bin\Debug\net5.0-windows\ProjectPOSsystem.dll
+F:\Visual Studio\Project 2.0\ProjectPOSsystem\ProjectPOSsystem\bin\Debug\net5.0-windows\ref\ProjectPOSsystem.dll
+F:\Visual Studio\Project 2.0\ProjectPOSsystem\ProjectPOSsystem\bin\Debug\net5.0-windows\ProjectPOSsystem.pdb
+F:\Visual Studio\Project 2.0\ProjectPOSsystem\ProjectPOSsystem\obj\Debug\net5.0-windows\ProjectPOSsystem.genruntimeconfig.cache
+F:\Visual Studio\Project 2.0\ProjectPOSsystem\obj\Debug\net5.0-windows\ProjectPOSsystem.dll
+F:\Visual Studio\Project 2.0\ProjectPOSsystem\obj\Debug\net5.0-windows\ref\ProjectPOSsystem.dll
+F:\Visual Studio\Project 2.0\ProjectPOSsystem\obj\Debug\net5.0-windows\ProjectPOSsystem.pdb
+F:\Visual Studio\Project 2.0\ProjectPOSsystem\bin\Debug\net5.0-windows\ProjectPOSsystem.exe
+F:\Visual Studio\Project 2.0\ProjectPOSsystem\bin\Debug\net5.0-windows\ProjectPOSsystem.deps.json
+F:\Visual Studio\Project 2.0\ProjectPOSsystem\bin\Debug\net5.0-windows\ProjectPOSsystem.runtimeconfig.json
+F:\Visual Studio\Project 2.0\ProjectPOSsystem\bin\Debug\net5.0-windows\ProjectPOSsystem.runtimeconfig.dev.json
+F:\Visual Studio\Project 2.0\ProjectPOSsystem\bin\Debug\net5.0-windows\ProjectPOSsystem.dll
+F:\Visual Studio\Project 2.0\ProjectPOSsystem\bin\Debug\net5.0-windows\ref\ProjectPOSsystem.dll
+F:\Visual Studio\Project 2.0\ProjectPOSsystem\bin\Debug\net5.0-windows\ProjectPOSsystem.pdb
+F:\Visual Studio\Project 2.0\ProjectPOSsystem\obj\Debug\net5.0-windows\ProjectPOSsystem.FrmAddItem.resources
+F:\Visual Studio\Project 2.0\ProjectPOSsystem\obj\Debug\net5.0-windows\ProjectPOSsystem.frmLoginRegister.resources
+F:\Visual Studio\Project 2.0\ProjectPOSsystem\obj\Debug\net5.0-windows\ProjectPOSsystem.frmPOS.resources
+F:\Visual Studio\Project 2.0\ProjectPOSsystem\obj\Debug\net5.0-windows\ProjectPOSsystem.FrmRegister.resources
+F:\Visual Studio\Project 2.0\ProjectPOSsystem\obj\Debug\net5.0-windows\ProjectPOSsystem.FrmRemoveItem.resources
+F:\Visual Studio\Project 2.0\ProjectPOSsystem\obj\Debug\net5.0-windows\ProjectPOSsystem.frmSaleHistory.resources
+F:\Visual Studio\Project 2.0\ProjectPOSsystem\obj\Debug\net5.0-windows\ProjectPOSsystem.Properties.Resources.resources
+F:\Visual Studio\Project 2.0\ProjectPOSsystem\obj\Debug\net5.0-windows\ProjectPOSsystem.csproj.GenerateResource.cache
+F:\Visual Studio\Project 2.0\ProjectPOSsystem\obj\Debug\net5.0-windows\ProjectPOSsystem.GeneratedMSBuildEditorConfig.editorconfig
+F:\Visual Studio\Project 2.0\ProjectPOSsystem\obj\Debug\net5.0-windows\ProjectPOSsystem.AssemblyInfoInputs.cache
+F:\Visual Studio\Project 2.0\ProjectPOSsystem\obj\Debug\net5.0-windows\ProjectPOSsystem.AssemblyInfo.cs
+F:\Visual Studio\Project 2.0\ProjectPOSsystem\obj\Debug\net5.0-windows\ProjectPOSsystem.csproj.CoreCompileInputs.cache
+F:\Visual Studio\Project 2.0\ProjectPOSsystem\obj\Debug\net5.0-windows\ProjectPOSsystem.genruntimeconfig.cache
+D:\Belgium\Year2\PRG281\Project\Iteration11\Project 2.0\ProjectPOSsystem\bin\Debug\net5.0-windows\ProjectPOSsystem.exe
+D:\Belgium\Year2\PRG281\Project\Iteration11\Project 2.0\ProjectPOSsystem\bin\Debug\net5.0-windows\ProjectPOSsystem.deps.json
+D:\Belgium\Year2\PRG281\Project\Iteration11\Project 2.0\ProjectPOSsystem\bin\Debug\net5.0-windows\ProjectPOSsystem.runtimeconfig.json
+D:\Belgium\Year2\PRG281\Project\Iteration11\Project 2.0\ProjectPOSsystem\bin\Debug\net5.0-windows\ProjectPOSsystem.runtimeconfig.dev.json
+D:\Belgium\Year2\PRG281\Project\Iteration11\Project 2.0\ProjectPOSsystem\bin\Debug\net5.0-windows\ProjectPOSsystem.dll
+D:\Belgium\Year2\PRG281\Project\Iteration11\Project 2.0\ProjectPOSsystem\bin\Debug\net5.0-windows\ProjectPOSsystem.pdb
+D:\Belgium\Year2\PRG281\Project\Iteration11\Project 2.0\ProjectPOSsystem\obj\Debug\net5.0-windows\ProjectPOSsystem.csproj.AssemblyReference.cache
+D:\Belgium\Year2\PRG281\Project\Iteration11\Project 2.0\ProjectPOSsystem\obj\Debug\net5.0-windows\ProjectPOSsystem.FrmAddItem.resources
+D:\Belgium\Year2\PRG281\Project\Iteration11\Project 2.0\ProjectPOSsystem\obj\Debug\net5.0-windows\ProjectPOSsystem.frmLoginRegister.resources
+D:\Belgium\Year2\PRG281\Project\Iteration11\Project 2.0\ProjectPOSsystem\obj\Debug\net5.0-windows\ProjectPOSsystem.frmPOS.resources
+D:\Belgium\Year2\PRG281\Project\Iteration11\Project 2.0\ProjectPOSsystem\obj\Debug\net5.0-windows\ProjectPOSsystem.FrmRegister.resources
+D:\Belgium\Year2\PRG281\Project\Iteration11\Project 2.0\ProjectPOSsystem\obj\Debug\net5.0-windows\ProjectPOSsystem.FrmRemoveItem.resources
+D:\Belgium\Year2\PRG281\Project\Iteration11\Project 2.0\ProjectPOSsystem\obj\Debug\net5.0-windows\ProjectPOSsystem.frmSaleHistory.resources
+D:\Belgium\Year2\PRG281\Project\Iteration11\Project 2.0\ProjectPOSsystem\obj\Debug\net5.0-windows\ProjectPOSsystem.Properties.Resources.resources
+D:\Belgium\Year2\PRG281\Project\Iteration11\Project 2.0\ProjectPOSsystem\obj\Debug\net5.0-windows\ProjectPOSsystem.csproj.GenerateResource.cache
+D:\Belgium\Year2\PRG281\Project\Iteration11\Project 2.0\ProjectPOSsystem\obj\Debug\net5.0-windows\ProjectPOSsystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Belgium\Year2\PRG281\Project\Iteration11\Project 2.0\ProjectPOSsystem\obj\Debug\net5.0-windows\ProjectPOSsystem.AssemblyInfoInputs.cache
+D:\Belgium\Year2\PRG281\Project\Iteration11\Project 2.0\ProjectPOSsystem\obj\Debug\net5.0-windows\ProjectPOSsystem.AssemblyInfo.cs
+D:\Belgium\Year2\PRG281\Project\Iteration11\Project 2.0\ProjectPOSsystem\obj\Debug\net5.0-windows\ProjectPOSsystem.csproj.CoreCompileInputs.cache
+D:\Belgium\Year2\PRG281\Project\Iteration11\Project 2.0\ProjectPOSsystem\obj\Debug\net5.0-windows\ProjectPOSsystem.dll
+D:\Belgium\Year2\PRG281\Project\Iteration11\Project 2.0\ProjectPOSsystem\obj\Debug\net5.0-windows\refint\ProjectPOSsystem.dll
+D:\Belgium\Year2\PRG281\Project\Iteration11\Project 2.0\ProjectPOSsystem\obj\Debug\net5.0-windows\ProjectPOSsystem.pdb
+D:\Belgium\Year2\PRG281\Project\Iteration11\Project 2.0\ProjectPOSsystem\obj\Debug\net5.0-windows\ProjectPOSsystem.genruntimeconfig.cache
+D:\Belgium\Year2\PRG281\Project\Iteration11\Project 2.0\ProjectPOSsystem\obj\Debug\net5.0-windows\ref\ProjectPOSsystem.dll
+F:\Visual Studio\Project 3.0\ProjectPOSsystem\bin\Debug\net5.0-windows\ProjectPOSsystem.exe
+F:\Visual Studio\Project 3.0\ProjectPOSsystem\bin\Debug\net5.0-windows\ProjectPOSsystem.deps.json
+F:\Visual Studio\Project 3.0\ProjectPOSsystem\bin\Debug\net5.0-windows\ProjectPOSsystem.runtimeconfig.json
+F:\Visual Studio\Project 3.0\ProjectPOSsystem\bin\Debug\net5.0-windows\ProjectPOSsystem.runtimeconfig.dev.json
+F:\Visual Studio\Project 3.0\ProjectPOSsystem\bin\Debug\net5.0-windows\ProjectPOSsystem.dll
+F:\Visual Studio\Project 3.0\ProjectPOSsystem\bin\Debug\net5.0-windows\ref\ProjectPOSsystem.dll
+F:\Visual Studio\Project 3.0\ProjectPOSsystem\bin\Debug\net5.0-windows\ProjectPOSsystem.pdb
+F:\Visual Studio\Project 3.0\ProjectPOSsystem\obj\Debug\net5.0-windows\ProjectPOSsystem.FrmAddItem.resources
+F:\Visual Studio\Project 3.0\ProjectPOSsystem\obj\Debug\net5.0-windows\ProjectPOSsystem.frmLoginRegister.resources
+F:\Visual Studio\Project 3.0\ProjectPOSsystem\obj\Debug\net5.0-windows\ProjectPOSsystem.frmPOS.resources
+F:\Visual Studio\Project 3.0\ProjectPOSsystem\obj\Debug\net5.0-windows\ProjectPOSsystem.FrmRegister.resources
+F:\Visual Studio\Project 3.0\ProjectPOSsystem\obj\Debug\net5.0-windows\ProjectPOSsystem.FrmRemoveItem.resources
+F:\Visual Studio\Project 3.0\ProjectPOSsystem\obj\Debug\net5.0-windows\ProjectPOSsystem.frmSaleHistory.resources
+F:\Visual Studio\Project 3.0\ProjectPOSsystem\obj\Debug\net5.0-windows\ProjectPOSsystem.Properties.Resources.resources
+F:\Visual Studio\Project 3.0\ProjectPOSsystem\obj\Debug\net5.0-windows\ProjectPOSsystem.csproj.GenerateResource.cache
+F:\Visual Studio\Project 3.0\ProjectPOSsystem\obj\Debug\net5.0-windows\ProjectPOSsystem.GeneratedMSBuildEditorConfig.editorconfig
+F:\Visual Studio\Project 3.0\ProjectPOSsystem\obj\Debug\net5.0-windows\ProjectPOSsystem.AssemblyInfoInputs.cache
+F:\Visual Studio\Project 3.0\ProjectPOSsystem\obj\Debug\net5.0-windows\ProjectPOSsystem.AssemblyInfo.cs
+F:\Visual Studio\Project 3.0\ProjectPOSsystem\obj\Debug\net5.0-windows\ProjectPOSsystem.csproj.CoreCompileInputs.cache
+F:\Visual Studio\Project 3.0\ProjectPOSsystem\obj\Debug\net5.0-windows\ProjectPOSsystem.dll
+F:\Visual Studio\Project 3.0\ProjectPOSsystem\obj\Debug\net5.0-windows\ref\ProjectPOSsystem.dll
+F:\Visual Studio\Project 3.0\ProjectPOSsystem\obj\Debug\net5.0-windows\ProjectPOSsystem.pdb
+F:\Visual Studio\Project 3.0\ProjectPOSsystem\obj\Debug\net5.0-windows\ProjectPOSsystem.genruntimeconfig.cache
+F:\Visual Studio\Project 3.0\ProjectPOSsystem\obj\Debug\net5.0-windows\ProjectPOSsystem.csproj.AssemblyReference.cache
+D:\Belgium\Year2\PRG281\Project\FINAL\Project 4.0\ProjectPOSsystem\obj\Debug\net5.0-windows\ProjectPOSsystem.csproj.AssemblyReference.cache
+D:\Belgium\Year2\PRG281\Project\FINAL\Project 4.0\ProjectPOSsystem\obj\Debug\net5.0-windows\ProjectPOSsystem.FrmAddItem.resources
+D:\Belgium\Year2\PRG281\Project\FINAL\Project 4.0\ProjectPOSsystem\obj\Debug\net5.0-windows\ProjectPOSsystem.frmLoginRegister.resources
+D:\Belgium\Year2\PRG281\Project\FINAL\Project 4.0\ProjectPOSsystem\obj\Debug\net5.0-windows\ProjectPOSsystem.frmPOS.resources
+D:\Belgium\Year2\PRG281\Project\FINAL\Project 4.0\ProjectPOSsystem\obj\Debug\net5.0-windows\ProjectPOSsystem.FrmRegister.resources
+D:\Belgium\Year2\PRG281\Project\FINAL\Project 4.0\ProjectPOSsystem\obj\Debug\net5.0-windows\ProjectPOSsystem.FrmRemoveItem.resources
+D:\Belgium\Year2\PRG281\Project\FINAL\Project 4.0\ProjectPOSsystem\obj\Debug\net5.0-windows\ProjectPOSsystem.frmSaleHistory.resources
+D:\Belgium\Year2\PRG281\Project\FINAL\Project 4.0\ProjectPOSsystem\obj\Debug\net5.0-windows\ProjectPOSsystem.Properties.Resources.resources
+D:\Belgium\Year2\PRG281\Project\FINAL\Project 4.0\ProjectPOSsystem\obj\Debug\net5.0-windows\ProjectPOSsystem.csproj.GenerateResource.cache
+D:\Belgium\Year2\PRG281\Project\FINAL\Project 4.0\ProjectPOSsystem\obj\Debug\net5.0-windows\ProjectPOSsystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Belgium\Year2\PRG281\Project\FINAL\Project 4.0\ProjectPOSsystem\obj\Debug\net5.0-windows\ProjectPOSsystem.AssemblyInfoInputs.cache
+D:\Belgium\Year2\PRG281\Project\FINAL\Project 4.0\ProjectPOSsystem\obj\Debug\net5.0-windows\ProjectPOSsystem.AssemblyInfo.cs
+D:\Belgium\Year2\PRG281\Project\FINAL\Project 4.0\ProjectPOSsystem\obj\Debug\net5.0-windows\ProjectPOSsystem.csproj.CoreCompileInputs.cache
+D:\Belgium\Year2\PRG281\Project\FINAL\Project 4.0\ProjectPOSsystem\obj\Debug\net5.0-windows\ProjectPOSsystem.dll
+D:\Belgium\Year2\PRG281\Project\FINAL\Project 4.0\ProjectPOSsystem\obj\Debug\net5.0-windows\refint\ProjectPOSsystem.dll
+D:\Belgium\Year2\PRG281\Project\FINAL\Project 4.0\ProjectPOSsystem\obj\Debug\net5.0-windows\ProjectPOSsystem.pdb
+D:\Belgium\Year2\PRG281\Project\FINAL\Project 4.0\ProjectPOSsystem\bin\Debug\net5.0-windows\ProjectPOSsystem.exe
+D:\Belgium\Year2\PRG281\Project\FINAL\Project 4.0\ProjectPOSsystem\bin\Debug\net5.0-windows\ProjectPOSsystem.deps.json
+D:\Belgium\Year2\PRG281\Project\FINAL\Project 4.0\ProjectPOSsystem\bin\Debug\net5.0-windows\ProjectPOSsystem.runtimeconfig.json
+D:\Belgium\Year2\PRG281\Project\FINAL\Project 4.0\ProjectPOSsystem\bin\Debug\net5.0-windows\ProjectPOSsystem.runtimeconfig.dev.json
+D:\Belgium\Year2\PRG281\Project\FINAL\Project 4.0\ProjectPOSsystem\bin\Debug\net5.0-windows\ProjectPOSsystem.dll
+D:\Belgium\Year2\PRG281\Project\FINAL\Project 4.0\ProjectPOSsystem\bin\Debug\net5.0-windows\ProjectPOSsystem.pdb
+D:\Belgium\Year2\PRG281\Project\FINAL\Project 4.0\ProjectPOSsystem\obj\Debug\net5.0-windows\ProjectPOSsystem.genruntimeconfig.cache
+D:\Belgium\Year2\PRG281\Project\FINAL\Project 4.0\ProjectPOSsystem\obj\Debug\net5.0-windows\ref\ProjectPOSsystem.dll

@@ -1,0 +1,21 @@
+Act Popcorn 100g==17.00
+Biltong Sliced 100g==30.00
+Bonaqua 500ml==18.00
+Choco Pie 30g==10.00
+Coke 500ml==25.00
+Cultured Yogurt 100ml==18.00
+Fanta 500ml==22.00
+Foxi Naks 100g==12.00
+Jelly Babies 80g==20.00
+Jelly Teddies 80g==20.00
+Lays Salted 250g==10.00
+Marie Biscuits 100g==12.00
+Marlboro Original 1pack==20.00
+Mars Bar 30g==15.00
+Oreos 50g==22.00
+Pepsi 500ml==24.00
+Remington Gold 1pack==15.00
+Simba 250g==6.00
+Snickers 30g==12.00
+Sprite 500ml==25.00
+Tropicana Orange 750ml==30.00
